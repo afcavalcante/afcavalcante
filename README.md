@@ -13,7 +13,7 @@
 
 I am currently pursuing a **Bachelor's Degree in Business Administration at the Pontifical Catholic University of Goiás (PUC Goiás)**, directing my career and studies toward **Data Analytics** and **Data Engineering**.
 
-I combine business strategy with technical data workflows, leveraging programming, statistical modeling, and data pipelines to transform raw datasets into structured, actionable business insights. I am continuously developing practical projects focused on programming, data infrastructure, and analytics.
+I combine business strategy with technical data workflows, leveraging programming, statistical, and data pipelines to transform raw datasets into structured, actionable business insights. I am continuously developing practical projects focused on programming, data infrastructure, and analytics.
 
 ---
 
